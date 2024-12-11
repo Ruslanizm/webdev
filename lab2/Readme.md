@@ -29,9 +29,9 @@
 
 6. Use-case диаграммы
    
-8. ER-диаграммы
+7. ER-диаграммы
    ![Blank diagram 1](https://github.com/user-attachments/assets/d52c5858-5e33-45e4-94fa-61fc3ac36d86)
-10. Пользовательские сценарии:
+8. Пользовательские сценарии:
    
       a) Регистрация клиента:
    
@@ -55,3 +55,32 @@
       - Открывает заказы со статусом «Принят».  
       - Устанавливает статус «В производстве».  
       - После приготовления передает курьеру и изменяет статус на «В пути».  
+9. Экраны:
+    
+   Главная страница
+   
+   ![Рисунок1](https://github.com/user-attachments/assets/2acdbb5e-4aa1-4f6e-b615-2f8d24a722ba)
+
+   Выбранная категория "Торты на день рождения" и подкатегория "Для женщин"
+
+   ![Рисунок6](https://github.com/user-attachments/assets/0eb049f9-4e61-4bab-9bf2-ee58b544da3b)
+
+   Меню "Каталог"
+
+   ![Рисунок3](https://github.com/user-attachments/assets/19de88ed-825e-44ff-a9d2-fd814a49eb68)
+
+   Раздел "Корзина"
+
+   ![Рисунок7](https://github.com/user-attachments/assets/1978a655-9816-4fae-9193-36393c5cbdb3)
+
+   Раздел "Оформление заказа"
+
+   ![Рисунок4](https://github.com/user-attachments/assets/890c4da1-f1f0-4276-a667-3f371aa7bbb9)
+
+   Раздел "Контакты"
+
+   ![Рисунок5](https://github.com/user-attachments/assets/6e7e2e67-0b48-47f1-bdcd-938c7f4a1912)
+
+   
+
+
