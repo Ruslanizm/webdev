@@ -61,27 +61,28 @@
     
    Главная страница
    
-   ![Рисунок1](https://github.com/user-attachments/assets/2acdbb5e-4aa1-4f6e-b615-2f8d24a722ba)
+   ![Рисунок1](https://github.com/user-attachments/assets/8740a6c0-f811-4d96-88ab-eb0c14015f20)
 
    Выбранная категория "Торты на день рождения" и подкатегория "Для женщин"
 
-   ![Рисунок6](https://github.com/user-attachments/assets/0eb049f9-4e61-4bab-9bf2-ee58b544da3b)
+   ![Рисунок2](https://github.com/user-attachments/assets/efcbd250-c6cd-4dd1-b6aa-0be045432878)
 
    Меню "Каталог"
 
-   ![Рисунок3](https://github.com/user-attachments/assets/19de88ed-825e-44ff-a9d2-fd814a49eb68)
+   ![Рисунок3](https://github.com/user-attachments/assets/e5426edd-5854-47fc-90e2-3bc6688c46ce)
 
    Раздел "Корзина"
 
-   ![Рисунок7](https://github.com/user-attachments/assets/1978a655-9816-4fae-9193-36393c5cbdb3)
+   ![Рисунок4](https://github.com/user-attachments/assets/67675be9-fdc4-4fb1-811a-ee4fc308fcae)
 
    Раздел "Оформление заказа"
 
-   ![Рисунок4](https://github.com/user-attachments/assets/890c4da1-f1f0-4276-a667-3f371aa7bbb9)
+   ![Рисунок5](https://github.com/user-attachments/assets/15d926d8-cb6b-4c67-bfed-8270b34f6568)
 
    Раздел "Контакты"
 
-   ![Рисунок5](https://github.com/user-attachments/assets/6e7e2e67-0b48-47f1-bdcd-938c7f4a1912)
+   ![Рисунок6](https://github.com/user-attachments/assets/a686925f-720f-415b-bb70-b6f8758f9c77)
+
 
    
 
